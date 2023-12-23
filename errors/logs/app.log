@@ -1,8 +1,0 @@
-
-
-2023-12-21 18:02:42,340 - root - INFO - Starting the application
-2023-12-21 18:02:42,340 - root - ERROR - Exception occurred: Traceback (most recent call last):
-  File "d:\_Programs\checklist_app\main.py", line 14, in main
-    test_error = 1 / 0  # This will cause a ZeroDivisionError
-ZeroDivisionError: division by zero
-
