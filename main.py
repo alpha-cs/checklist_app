@@ -28,6 +28,4 @@ def main():
 
 
 if __name__ == '__main__':
-    log_detailed_exception()
-
     main()
